@@ -6,6 +6,7 @@ Para rodar melhor, fizemos uma cena mais leve: Pista_CBR_clean.ttt (mesma cena, 
 Fazer o download da cena nesse link: https://drive.google.com/drive/folders/1DDe7VrL7giJETNCIkCuK_BRqKIXmd993
 Para rodar, basta:
 - Clonar esse repositório dentro de uma pasta;
-- Copiar o arquivo libb0.so, presente na pasta do coppelia, para a nova pasta criada;
-- O código de teste de movimentação está em main.py
+- Copiar o arquivo libb0.so, presente na pasta do coppelia (ir na pasta do Coppelia e pesquisar pelo nome do arquivo), para a nova pasta criada;
+- O código de teste de movimentação está em main.py;
+- Rodar o código main.py, após isso, o robô deverá se mexer na cena do coppelia.
 
