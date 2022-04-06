@@ -10,7 +10,7 @@
 
 -Para rodar, basta:
   - Clonar esse repositório dentro de uma pasta;
-  - Copiar o arquivo libb0.so, presente na pasta do coppelia (ir na pasta do Coppelia e pesquisar pelo nome do arquivo), para a nova pasta criada;
+  - Copiar o arquivo libb0.so (Linux) ou os arquivos b0.dll e b0.lib (Windows), presente na pasta do coppelia (ir na pasta do Coppelia e pesquisar pelo nome do arquivo), para a nova pasta criada;
   - O código de teste de movimentação está em main.py;
   - Rodar o código main.py, após isso, o robô deverá se mexer na cena do coppelia.
 
